@@ -41,7 +41,7 @@
   "devDependencies": {
     "JSONStream": "^1.1.1",
     "codacy-coverage": "^2.0.0",
-    "eslint": "^3.1.1",
+    "eslint": "^3.9.0",
     "eslint-config-airbnb-base": "^5.0.0",
     "eslint-plugin-import": "^1.11.1",
     "express": "^4.13.4",
